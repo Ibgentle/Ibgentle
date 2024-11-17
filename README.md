@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ibgentle
-- 👀 I’m in Networking, Programming, and the Cloud
+- 👀 I’m into Networking, Programming, Cybersecurity, and the Cloud
 - 📫 How to reach me: e-mail: iboroffor@gmail.com
 
 <!---
